@@ -8,10 +8,13 @@
     <a href="https://pytorch.org/">
       Here is the link to the official Pytorch documentation</a>
 
-  <h1>Step by step</h1>   
-  <p>First of all, we need to create a virtual environment</p> 
-  <a href="https://www.zup.com.br/blog/configurando-vscode-trabalhar-ambiente-virtual-python-pytes">
+  <h1>Step by step:</h1>
+    <ul>
+      <li>First of all, we need to create a virtual environment</li>
+        <a href="https://www.zup.com.br/blog/configurando-vscode-trabalhar-ambiente-virtual-python-pytes">
      Useful link to create your virtual environment</a>
+    </ul>  
+
   </body>
 
 
